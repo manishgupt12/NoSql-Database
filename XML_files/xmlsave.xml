@@ -1,0 +1,227 @@
+
+  <db>
+    <Element>
+      <name>
+        Convert
+      </name>
+      <category>
+        Package for properties
+      </category>
+      <timeDate>
+        Fri Feb 5 12:42:20 2017
+      </timeDate>
+      <description>
+        class provides encapsulated properties for C++
+      </description>
+      <data>
+        class Properties
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        XmlDocuments
+      </name>
+      <category>
+        Package for XMl
+      </category>
+      <timeDate>
+        Fri Feb 5 10:56:20 2017
+      </timeDate>
+      <description>
+        a container of XmlElement nodes
+      </description>
+      <data>
+        XmlDocument processing
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        CppProperties
+      </name>
+      <category>
+        Package for properties
+      </category>
+      <timeDate>
+        Fri Feb 5 12:42:20 2017
+      </timeDate>
+      <description>
+        class provides encapsulated properties for C++
+      </description>
+      <data>
+        class Properties
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        Utilities
+      </name>
+      <category>
+        Package for Utilities
+      </category>
+      <timeDate>
+        Fri Feb 5 10:46:20 2017
+      </timeDate>
+      <description>
+        lambdas that provide mildly useful local processing
+      </description>
+      <data>
+        string helper
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        RandomElem0
+      </name>
+      <category>
+        RandomCategory0
+      </category>
+      <timeDate>
+        Sat Feb 11 21:10:07 2017
+      </timeDate>
+      <description>
+        RandomDescription0
+      </description>
+      <data>
+        RandomData0
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        NoSqlDb
+      </name>
+      <category>
+        Package for Db
+      </category>
+      <timeDate>
+        Fri Feb 5 12:46:20 2017
+      </timeDate>
+      <description>
+        represents a data record in our NoSql database
+      </description>
+      <data>
+        Element class
+      </data>
+      <children>
+        <child>
+          XmlDocuments
+        </child>
+        <child>
+          Convert
+        </child>
+        <child>
+          Utilities
+        </child>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        RandomElem1
+      </name>
+      <category>
+        RandomCategory1
+      </category>
+      <timeDate>
+        Sat Feb 11 21:10:07 2017
+      </timeDate>
+      <description>
+        RandomDescription1
+      </description>
+      <data>
+        RandomData1
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        RandomElem4
+      </name>
+      <category>
+        RandomCategory4
+      </category>
+      <timeDate>
+        Sat Feb 11 21:10:07 2017
+      </timeDate>
+      <description>
+        RandomDescription4
+      </description>
+      <data>
+        RandomData4
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        Queries
+      </name>
+      <category>
+        Package for Queries
+      </category>
+      <timeDate>
+        Fri Feb 5 10:46:20 2017
+      </timeDate>
+      <description>
+        Can be used for queries on database.
+      </description>
+      <data>
+        Query class
+      </data>
+      <children>
+        <child>
+          NoSqlDb
+        </child>
+        <child>
+          CppProperties
+        </child>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        RandomElem2
+      </name>
+      <category>
+        RandomCategory2
+      </category>
+      <timeDate>
+        Sat Feb 11 21:10:07 2017
+      </timeDate>
+      <description>
+        RandomDescription2
+      </description>
+      <data>
+        RandomData2
+      </data>
+      <children>
+      </children>
+    </Element>
+    <Element>
+      <name>
+        RandomElem3
+      </name>
+      <category>
+        RandomCategory3
+      </category>
+      <timeDate>
+        Sat Feb 11 21:10:07 2017
+      </timeDate>
+      <description>
+        RandomDescription3
+      </description>
+      <data>
+        RandomData3
+      </data>
+      <children>
+      </children>
+    </Element>
+  </db>
