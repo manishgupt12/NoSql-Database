@@ -1,0 +1,41 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Sat Feb 11 16:24:11 2017
+     Path: "C:\Users\manis\Dropbox\CSE687\Project1_final\project1\Utilities"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      12
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               StrHelper.h    function                              ltrim      30       5       1
+               StrHelper.h    function                              rtrim      37       5       1
+               StrHelper.h    function                               trim      44       5       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Utilities.h      lambda                               []()      12       1       1
+               Utilities.h      lambda                        [](size_tn)      15       3       1
+               Utilities.h      lambda  [](conststd::string&msg,charunder      20       3       1
+               Utilities.h      lambda           [](conststd::string&msg)      24       1       1
+               Utilities.h      lambda           [](conststd::string&msg)      26       1       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             Utilities.cpp    function                               main      10       6       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     3 files
