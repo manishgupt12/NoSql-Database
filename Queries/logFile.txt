@@ -1,0 +1,47 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Sat Feb 11 17:31:19 2017
+     Path: "C:\Users\manis\Dropbox\CSE687\Project1_final\project1\Queries"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      39
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Queries.h       class                            Queries      24      20      30
+                 Queries.h    function                            Queries      25       2       1
+                 Queries.h    function                         checkUnion      48       8       2
+                 Queries.h    function                           GetUnion      60       5       1
+                 Queries.h    function                      Queries_value      69       3       1
+                 Queries.h    function                      Queries_child      76       9       2
+                 Queries.h    function                 Queries_keyPattern      89      20       4
+                 Queries.h    function                 Queries_keyPattern     113      19       4
+                 Queries.h    function            Queries_categoryPattern     136      16       3
+                 Queries.h    function            Queries_categoryPattern     157      15       3
+                 Queries.h    function                Queries_dataPattern     176      21       4
+                 Queries.h    function                Queries_dataPattern     201      20       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Queries.cpp    function                              print       6      11       2
+               Queries.cpp    function                              print      21      12       2
+               Queries.cpp    function                        simpleQuery      37      25       1
+               Queries.cpp    function                      multipleQuery      66      22       1
+               Queries.cpp    function                         unionQuery      92      22       1
+               Queries.cpp    function                               main     117      15       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files

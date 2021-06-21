@@ -1,0 +1,45 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Sat Feb 11 16:23:21 2017
+     Path: "C:\Users\manis\Dropbox\CSE687\Project1_final\project1\NoSqlDb"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      33
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 NoSqlDb.h       class                            Element      42      15       8
+                 NoSqlDb.h    function                               show      60      21       2
+                 NoSqlDb.h    function                               save     129       9       1
+                 NoSqlDb.h    function                         editvalues     213      13       2
+                 NoSqlDb.h    function                       writeElement     237      35       2
+                 NoSqlDb.h       class                            NoSqlDb      90      22      21
+                 NoSqlDb.h    function                               keys     117       8       2
+                 NoSqlDb.h    function                              value     142       5       1
+                 NoSqlDb.h    function                              count     151       3       1
+                 NoSqlDb.h    function                           addchild     158      20       4
+                 NoSqlDb.h    function                        deletechild     182      13       3
+                 NoSqlDb.h    function                          deletekey     200       9       2
+                 NoSqlDb.h    function                           autosave     230       3       1
+                 NoSqlDb.h    function                              toxml     276      21       2
+                 NoSqlDb.h    function                            fromXml     301      47       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               NoSqlDb.cpp    function                               main       7      39       3
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files

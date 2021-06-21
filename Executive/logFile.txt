@@ -1,0 +1,34 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Sat Feb 11 14:59:52 2017
+     Path: "C:\Users\manis\Dropbox\CSE687\Project1_final\project1\Executive"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      11
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         testexecutive.cpp    function                              func1      18      27       1
+         testexecutive.cpp    function                              func2      47      26       1
+         testexecutive.cpp    function                              print      76      12       2
+         testexecutive.cpp    function                              print      90      11       2
+         testexecutive.cpp    function                    MakeTestElement     103      13       1
+         testexecutive.cpp    function                   randomElementAdd     118      18       2
+         testexecutive.cpp    function                               main     143     141       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         testexecutive.cpp    function                               main     143     141       1
+
+
+
+    searched     3 dirs
+   processed     1 files

@@ -1,0 +1,2 @@
+cd .\Debug\
+Executive.exe

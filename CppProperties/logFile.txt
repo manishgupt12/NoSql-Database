@@ -1,0 +1,63 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Sat Feb 11 14:59:40 2017
+     Path: "C:\Users\manis\Dropbox\CSE687\Project1_final\project1\CppProperties"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      39
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           CppProperties.h       class                           Property      26      35      12
+           CppProperties.h    function                           Property      29       2       1
+           CppProperties.h    function                           Property      30       1       1
+           CppProperties.h    function                           Property      31       2       1
+           CppProperties.h    function                          ~Property      32       2       1
+           CppProperties.h    function                         operator=(      37       6       1
+           CppProperties.h    function                     operatorconstT      44       2       1
+           CppProperties.h    function                             setter      48       2       1
+           CppProperties.h    function                             getter      49       2       1
+           CppProperties.h    function                           getValue      50       1       1
+           CppProperties.h      lambda                       [](constT&t)      57       1       1
+           CppProperties.h      lambda                              [=]()      58       1       1
+           CppProperties.h    function                        operator<<(      65      11       3
+           CppProperties.h       class                           Property      86      13       9
+           CppProperties.h    function                           Property      87       2       1
+           CppProperties.h    function                           Property      88       2       1
+           CppProperties.h    function                           Property      89       2       1
+           CppProperties.h    function                          ~Property      90       2       1
+           CppProperties.h    function                             getter      91       2       1
+           CppProperties.h    function                     operatorconstT      92       1       1
+           CppProperties.h    function                           getValue      93       1       1
+           CppProperties.h      lambda                              [=]()      96       1       1
+           CppProperties.h    function                        operator<<(     103      11       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         CppProperties.cpp       class                                  X      14       7       1
+         CppProperties.cpp    function                            toUpper      33       6       1
+         CppProperties.cpp       class                                  Z      41      22       4
+         CppProperties.cpp    function                                  Z      44      17       3
+         CppProperties.cpp      lambda             [](conststd::string&s)      46       1       1
+         CppProperties.cpp      lambda                              [=]()      53       6       1
+         CppProperties.cpp       class                  UpperCaseProperty      70      12       3
+         CppProperties.cpp    function                  UpperCaseProperty      72       4       1
+         CppProperties.cpp    function                         operator=(      77       4       1
+         CppProperties.cpp       class                                  Y      84       4       1
+         CppProperties.cpp    function                               main      94      35       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files
