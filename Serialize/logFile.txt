@@ -1,0 +1,40 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Sat Feb 11 15:00:36 2017
+     Path: "C:\Users\manis\Dropbox\CSE687\Project1_final\project1\Serialize"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      13
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Convert.h       class                            Convert      18       7       5
+                 Convert.h    function                                  >      19       2       1
+                 Convert.h    function                           toString      31       5       1
+                 Convert.h    function                         fromString      43       6       1
+                 Convert.h    function                                 id      53       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Convert.cpp       class                             Widget      17       7       3
+               Convert.cpp    function                             Widget      18       2       1
+               Convert.cpp    function                              value      19       2       1
+               Convert.cpp    function                        operator<<(      26       4       1
+               Convert.cpp    function                        operator>>(      32       9       2
+               Convert.cpp    function                               main      49      23       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files
